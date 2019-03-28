@@ -1,58 +1,50 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+# TaskGo校园任务行-后端
+> 任务驱动的校园综合服务平台，功能包括但不限于送水，失物招领，代取快递等。
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+## Screenshots
 
-## About Laravel
+- 登录页
+- 主页
+- 个人信息页
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+<div align="center">
+<img src="docs/imgs/登录页.png" width="200"/>
+<img src="docs/imgs/主页.png" width="200"/>
+<img src="docs/imgs/个人信息页.png" width="200"/>
+</div><br>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
 
-## Learning Laravel
+- 创业团体页
+- 校园互助页
+- 任务页
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of any modern web application framework, making it a breeze to get started learning the framework.
 
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 1100 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
 
-## Laravel Sponsors
+<div align="center">
+<img src="docs/imgs/创业团体页.png" width="200"/>
+<img src="docs/imgs/校园互助页.png" width="200"/>
+<img src="docs/imgs/任务页.png" width="200"/>
+</div><br>
 
-We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell):
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Pulse Storm](http://www.pulsestorm.net/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
 
-## Contributing
+## Android
+> [@fhyPayaso](https://github.com/fhyPayaso) · [@Ajiajiajia](https://github.com/Ajiajiajia) · [@lszr-x](https://github.com/lszr-x)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+[Android代码](https://github.com/fhyPayaso/TaskGo-Android)
 
-## Security Vulnerabilities
+## UI
+> [@Ajiajiajia](https://github.com/Ajiajiajia)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## PM
+> [@ZS-Oliver](https://github.com/ZS-Oliver) · [@ZGCTroy](https://github.com/ZGCTroy)
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Backend
+
+> [@imyhui](https://github.com/imyhui/) · [@Yipartner](https://github.com/Yipartner)
+
+Authored by [@imyhui](https://github.com/imyhui/)  Maintained by [@imyhui](https://github.com/imyhui/)
+
+[@GitHub](<https://github.com/imyhui/TaskGo_BE>) 
